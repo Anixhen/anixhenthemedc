@@ -217,7 +217,7 @@
 }
 
 .wordmark__5b8c9:hover:before {
-  content: "‏‏‎ c h i l l a x";
+  content: "‏‏‎ a n i x h e n";
   letter-spacing: 2px;
 }
 
@@ -1568,11 +1568,11 @@ svg {
 }
 
 @keyframes UserModalButtons {
-  0% {
+  100% {
     transform: translateY(0px);
   }
 
-  50% {
+  100% {
     transform: translateY(-5px);
   }
 
